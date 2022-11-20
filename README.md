@@ -10,7 +10,7 @@ Deployed Project: https://decourtney.github.io/112822-Javascript-Password-Genera
 
 <br>
     <div>  
-        <img src="./assets/images/passwordGeneratorSS.png" alt="Screenshot of Password Generator site" style="max-width: 300px; display: block;" />  
+        <img src="./assets/images/passwordGeneratorSS.png" target="_blank" alt="Screenshot of Password Generator site" style="max-width: 300px; display: block;" />  
     </div>
 <br>
 
